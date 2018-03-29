@@ -10,7 +10,7 @@ Typewriter Sounds for your Keyboard
 
 ## Overview
 
-A fun little program to make your PC Keyboad sound like an old fashioned Typewriter.
+A fun program to make your PC Keyboad sound like an old fashioned Typewriter.
 
 Uses [C# Global Keyboard Listener](https://gist.github.com/Ciantic/471698).
 
