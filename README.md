@@ -22,8 +22,8 @@ https://github.com/MattMcManis/Ink/releases
 
 #### Files
 * Ink.exe
-* Sounds Folder
 * NAudio.dll
+* Sounds Folder
 
 #### Requires
 [Microsoft .NET Framework 4.5.2](https://www.microsoft.com/net/download/dotnet-framework-runtime/net452)
