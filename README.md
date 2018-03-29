@@ -16,6 +16,12 @@ Uses [C# Global Keyboard Listener](https://gist.github.com/Ciantic/471698).
 
 ![Ink](https://raw.githubusercontent.com/MattMcManis/Ink/master/images/ink.png)  
 
+## Issues
+Alpha build, still in development.
+
+* Sounds may be delayed
+* Memory Leak after long use
+
 ## Downloads
 #### Releases
 https://github.com/MattMcManis/Ink/releases
